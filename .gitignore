@@ -1,0 +1,17 @@
+.vscode/
+src/models/
+venv/
+
+src/req/__pycache__/
+src/req/DQNNN.py
+src/req/NNFS_back.py
+src/req/Replay2.py
+src/req/TorchNN.py
+
+src/mainDQ*
+src/mainPPO*
+src/mainT*
+
+src/mainREIN_L*
+test*
+*.zip
